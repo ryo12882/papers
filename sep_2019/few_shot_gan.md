@@ -1,9 +1,8 @@
 ---
-layout: post
 title:  Few-Shot Adversarial Learning of Realistic Neural Talking Head Models
 date:   2019-09-11-15
 categories: CV
-所要時間: 60min
+duration: 60min
 ---
 
 ## 1. どんなもの？
@@ -34,4 +33,4 @@ Text-to-speechのfew-shotの研究を画像生成GANに適用し、メタラー�
 
 ### 論文情報・リンク
 
-- [著者，"タイトル，" ジャーナル名，voluem，no.，ページ，年](論文リンク)
+- [Egor Zakharov, Aliaksandra Shysheya, Egor Burkov, Victor Lempitsky，"Few-Shot Adversarial Learning of Realistic Neural Talking Head Models，" ジャーナル名，voluem，no.，ページ，年](https://arxiv.org/pdf/1905.08233.pdf)
